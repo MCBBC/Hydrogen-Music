@@ -12,12 +12,6 @@
 - 由于本地管理功能并不完善，请尽量将其作为流媒体播放器使用。
 - 因网易增加了网易云盾验证，密码与邮箱登录无法使用，请使用二维码登录。
 - 请尽量不要使用云盘中的上传功能，目前上传失败概率大且内存无法得到释放。
-- <a href="#%EF%B8%8F-安装" target="blank"><strong>📦️ 下载安装包</strong></a>
-
-## 📦️ 安装
-
-访问 [Releases](https://github.com/Kaidesuyo/Hydrogen-Music/releases)
-页面下载安装包。
 
 ## 👷‍♂️ 打包客户端
 
